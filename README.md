@@ -1,3 +1,6 @@
+This is the React part of a demo for GraphQL subscriptions with a standalone Rails API and a React App frontend.
+
+## Create React App Info
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
